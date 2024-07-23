@@ -1,8 +1,11 @@
 # codeigniter-support
-support for codeigniter version > 4.5
 progress build ...
 
-### Requirement before installation
+### Requirement
+
+codeigniter version > 4.5
+
+### Requirement package before installation
 
 ```
 composer require saidqb/core-php
@@ -11,5 +14,5 @@ composer require saidqb/core-php
 ### installation
 
 ```
--
+composer require saidqb/codeigniter-support
 ```

@@ -10,12 +10,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Saidqb\\CodeIgniterSupport\\": "src/"
+            "Saidqb\\CodeigniterSupport\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Saidqb\\CodeIgniterSupport\\Tests\\": "tests/"
+            "Saidqb\\CodeigniterSupport\\Tests\\": "tests/"
         }
     },
     "authors": [
